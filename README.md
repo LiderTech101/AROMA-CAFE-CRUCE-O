@@ -1,4 +1,4 @@
-#Proyecto AROMA CAFE CRUCEÑO - Sistema de Información 1
+# Proyecto AROMA CAFE CRUCEÑO - Sistema de Información 1
 
 ¡Bienvenido al repositorio del proyecto "AROMA CAFE CRUCEÑO - Sistema de Información 1" 
 
