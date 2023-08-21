@@ -1,4 +1,4 @@
-# Proyecto AROMA CAFE CRUCEÑO - Sistema de Información 1
+#Proyecto AROMA CAFE CRUCEÑO - Sistema de Información 1
 
 ¡Bienvenido al repositorio del proyecto "AROMA CAFE CRUCEÑO - Sistema de Información 1" 
 
@@ -47,7 +47,7 @@ Si deseas agregar imágenes que muestren el avance del proyecto, sigue estos pas
 
 
 ## Contacto
-¿Tienes preguntas, sugerencias o comentarios sobre el proyecto "CAFE CRUCEÑO"? No dudes en contactarnos:
+¿Tienes preguntas, sugerencias o comentarios sobre el proyecto "AROMA CAFE CRUCEÑO"? No dudes en contactarnos:
 - Lider Moreno Padilla:  <p> Correo Electrónico: <a href="mailto:sc.lider.moreno.p@upds.net.bo">Hacer clic aquí para redactar un correo a Lider</a>
 
 - Diamara Jakeline Muñoz Vargas:  <p> Correo Electrónico: <a href="mailto:sc.diamara.munoz.v@upds.net.bo">Hacer clic aquí para redactar un correo a Diamara</a>
