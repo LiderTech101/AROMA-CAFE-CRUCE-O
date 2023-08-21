@@ -62,10 +62,10 @@ Si deseas agregar imágenes que muestren el avance del proyecto, sigue estos pas
 
 ¡Gracias por tu interés en el proyecto "CAFE CRUCEÑO - Sistema de Información 1"!
 
-![DUOLINGO](img/jorge.jpeg)
+![DUOLINGO](jorge.jpeg)
 
-![DUOLINGO](img/lider.jpeg)
+![DUOLINGO](lider.jpeg)
 
-![DUOLINGO](img/diamara.jpg)
+![DUOLINGO](diamara.jpg)
 
-![DUOLINGO](img/nihurcka.jpeg) 
+![DUOLINGO](nihurcka.jpeg) 
