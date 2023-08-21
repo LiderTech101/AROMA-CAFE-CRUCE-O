@@ -30,11 +30,11 @@ Si deseas agregar imágenes que muestren el avance del proyecto, sigue estos pas
 3. Imagenes y videos de la Interfaz y Diagrma de la Base de Datos (Aroma Café Cruceño) :
 
 
-   ![Image text](img/GIF.gif)
-   ![Diagrama de la base de datos](img/DiagramaBD.jpeg)
-   ![Interfaz de Inicio](img/InterfazLogin.jpeg)
-   ![Interfaz Principal](img/InterfazInicio.jpeg)
-    ![Interfaz de Producto](img/InterfazProducto.jpeg)
+   ![Image text](GIF.gif)
+   ![Diagrama de la base de datos](DiagramaBD.jpeg)
+   ![Interfaz de Inicio](InterfazLogin.jpeg)
+   ![Interfaz Principal](InterfazInicio.jpeg)
+    ![Interfaz de Producto](InterfazProducto.jpeg)
 
 ## Contenido
 
