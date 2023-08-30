@@ -1,8 +1,8 @@
 # Proyecto AROMA CAFE CRUCEÑO - Sistema de Información 1
 ## Universida Privada Doomingo Savio
-- `Pagina de Facebook de la universidad`: <p>Puedes acceder al siguiente enlace para ingresar a la página de facebook de nuestra Universidad <a href="(https://www.facebook.com/UPDS.bo)"></a>.</p>
+- `Pagina de Facebook de la universidad`: <p>Puedes acceder al siguiente enlace para ingresar a la página de facebook de nuestra Universidad <a href="https://www.facebook.com/UPDS.bo"></a>.</p>
 ## Docente: ING. Zambrana Chacon Jaime
-- `Pagina de Facebook del Docente`: <p>Puedes acceder al siguiente enlace para ingresar a la página de facebook de nuestro docente <a href="(https://www.facebook.com/zambranachaconjaime)">Jaime Sambrana.com</a>.</p>
+- `Pagina de Facebook del Docente`: <p>Puedes acceder al siguiente enlace para ingresar a la página de facebook de nuestro docente <a href="https://www.facebook.com/zambranachaconjaime">Jaime Sambrana.com</a>.</p>
 
 
 - `Ingresa a Nuestra Presentación:`: <p>Ingresa al enlace para ver más detalles en nuestra presentación digital: <a href="https://www.canva.com/design/DAFsyiwwOlA/Ap2zpNvFDClKt9Xr3zCvqQ/view?utm_content=DAFsyiwwOlA&utm_campaign=designshare&utm_medium=link&utm_source=viewer">PRESENTACIÓN.com</a>.</p>
