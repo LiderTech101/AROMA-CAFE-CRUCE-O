@@ -24,7 +24,7 @@ En el desarrollo de este proyecto, se asignaron los siguientes roles basados en 
 Imagenes y videos de la Interfaz y Diagrama de la Base de Datos (Aroma Café Cruceño) :
 
 ### Diagrama de nuestra base de datos:
-  ![Diagrama de la base de datos](img/diagrama.jpeg)
+  ![Diagrama de la base de datos](diagrama.jpeg)
 ### Login:
 Para entrar se necesita un usuario y una contraseña
    ![Image text](img/GIF.gif)
