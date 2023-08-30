@@ -24,7 +24,7 @@ En el desarrollo de este proyecto, se asignaron los siguientes roles basados en 
 Imagenes y videos de la Interfaz y Diagrama de la Base de Datos (Aroma Café Cruceño) :
 
 ### Diagrama de nuestra base de datos:
-  ![Diagrama de la base de datos](DiagramaBD.jpeg)
+  ![Diagrama de la base de datos](diagrama.jpeg)
 ### Login:
 Para entrar se necesita un usuario y una contraseña
    ![Image text](GIF.gif)
@@ -33,21 +33,32 @@ Para entrar se necesita un usuario y una contraseña
  ![Interfaz Principal](InterfazInicio.jpeg)
 ### Usuario: 
 Habra una ventana donde estaran los datos personales del usuario que haya ingresado   
-   ![usuario](usuario.gif)
+![usuario](usuario.gif)
+
+El Administrador tendra acceso a la interfaz Vendedores y podra añadir más
+![admin](adminvendedores.jpeg)
+Mientras que el vendedor no tendra acceso y no podra ver esta interfaz
+![vendedor](usuariovendedor.jpeg)
 ### Interfaz Productos:
-![Interfaz de Producto](InterfazProducto.jpeg)
+En esta interfaz se ingresara los productos de Aroma Café Cruceño
+![Interfaz de Producto](productos.jpeg)
 ### Interfaz Clientes:
-![Interfaz de Producto](clientes.png)
+![Interfaz de Producto](clientes.jpeg)
 ### Interfaz Ventas:
-![Interfaz de Producto](ventas.png)
+![Interfaz de Producto](ventas.jpeg)
 ### Reportes de Ventas:
-![Interfaz de Producto](reporteventas.png)
+Se puede buscar los datos de las ventas por fecha, por rango, por mes, día y también por año
+![Interfaz de Producto](ReporteVentas.jpeg)
 ### Reportes de Clientes:
-![Interfaz de Producto](reporteclientes.png)
+Se puede buscar los datos de los clientes por fecha, por rango, por mes, día y también por año
+![Interfaz de Reporte clientes](ReporteVentasClientes.jpeg)
 ### Reportes de Vendedores:
-![Interfaz de Producto](reportevendedores.png)
+Se puede buscar los datos de los vendedores por fecha, por rango, por mes, día y también por año
+![Interfaz de Producto](ReporteVendedores.jpeg)
 ### Interfaz Vendedores:
-![Interfaz de Producto](vendedores.png)
+Esta interfaz solo el administrador puede ingresar y realizar cambios
+![Interfaz de Producto](Vendedores.jpeg)
+
 
 
 ## Contenido
@@ -56,7 +67,7 @@ Habra una ventana donde estaran los datos personales del usuario que haya ingres
 
 - `Ingresa a Nuestra Presentación:`: <p>Ingresa al enlace para ver más detalles en nuestra presentación digital: <a href="https://www.canva.com/design/DAFsyiwwOlA/Ap2zpNvFDClKt9Xr3zCvqQ/view?utm_content=DAFsyiwwOlA&utm_campaign=designshare&utm_medium=link&utm_source=viewer">PRESENTACIÓN.com</a>.</p>
 
-- `Ingresa a Nuestra Documentación:`:<p>Ingrese al enlace para saber mas de nuestra Cafeteria Aroma Café Cruceño: <a href="https://upds-my.sharepoint.com/:w:/g/personal/sc_diamara_munoz_v_upds_net_bo/EbVHrBudlvtNvbndus2hXZwBzLsX2qZVtqAQuRI77RxnOA">Documentacion.com</a>.<p>
+- `Ingresa a Nuestra Documentación:`:<p>Ingrese al enlace para saber mas de nuestra Cafeteria Aroma Café Cruceño: <a href="https://upds-my.sharepoint.com/:w:/g/personal/sc_diamara_munoz_v_upds_net_bo/Efv2jFHgAupDmqC7qO-lCBEBomTtCDyDc8_i3ZA-e46q0g?e=P3tIhU">Documentacion.com</a>.<p>
 
 
 
