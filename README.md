@@ -24,7 +24,7 @@ En el desarrollo de este proyecto, se asignaron los siguientes roles basados en 
 Imagenes y videos de la Interfaz y Diagrama de la Base de Datos (Aroma Café Cruceño) :
 
 ### Diagrama de nuestra base de datos:
-  ![Diagrama de la base de datos](diagrama.jpeg)
+  ![Diagrama de la base de datos](img/diagrama.jpeg)
 ### Login:
 Para entrar se necesita un usuario y una contraseña
    ![Image text](img/GIF.gif)
@@ -68,8 +68,6 @@ Esta interfaz solo el administrador puede ingresar y realizar cambios
 - `Ingresa a Nuestra Presentación:`: <p>Ingresa al enlace para ver más detalles en nuestra presentación digital: <a href="https://www.canva.com/design/DAFsyiwwOlA/Ap2zpNvFDClKt9Xr3zCvqQ/view?utm_content=DAFsyiwwOlA&utm_campaign=designshare&utm_medium=link&utm_source=viewer">PRESENTACIÓN.com</a>.</p>
 
 - `Ingresa a Nuestra Documentación:`:<p>Ingrese al enlace para saber mas de nuestra Cafeteria Aroma Café Cruceño: <a href="https://upds-my.sharepoint.com/:w:/g/personal/sc_diamara_munoz_v_upds_net_bo/Efv2jFHgAupDmqC7qO-lCBEBomTtCDyDc8_i3ZA-e46q0g?e=P3tIhU">Documentacion.com</a>.<p>
-
-
 
 
 
