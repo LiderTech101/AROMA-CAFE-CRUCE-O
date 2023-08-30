@@ -3,10 +3,23 @@
 - `Pagina de Facebook de la universidad`: <p>Puedes acceder al siguiente enlace para ingresar a la página de facebook de nuestra Universidad <a href="https://www.facebook.com/UPDS.bo">UPDS.com</a>.</p>
 ## Docente: ING. Zambrana Chacon Jaime
 - `Pagina de Facebook del Docente`: <p>Puedes acceder al siguiente enlace para ingresar a la página de facebook de nuestro docente <a href="https://www.facebook.com/zambranachaconjaime">Jaime Sambrana.com</a>.</p>
+# Redes Sociales del equipo:
 
-
-- `Ingresa a Nuestra Presentación:`: <p>Ingresa al enlace para ver más detalles en nuestra presentación digital: <a href="https://www.canva.com/design/DAFsyiwwOlA/Ap2zpNvFDClKt9Xr3zCvqQ/view?utm_content=DAFsyiwwOlA&utm_campaign=designshare&utm_medium=link&utm_source=viewer">PRESENTACIÓN.com</a>.</p>
+- `Facebook de Lider Moreno Padilla:` <a href="https://www.facebook.com/lider.morenopadilla.79?mibextid=b06tZ0">LiderMorenoPadilla.com</a>.</p>
 ¡Bienvenido al repositorio del proyecto "AROMA CAFE CRUCEÑO - Sistema de Información 1" 
+
+- `Facebook de Jore Denis Barba:` <a href="https://www.facebook.com/JorgeDenis101095?mibextid=ZbWKwL">JorgeDenis.com</a>.</p>
+¡Bienvenido al repositorio del proyecto "AROMA CAFE CRUCEÑO - Sistema de Información 1"
+
+
+- `Facebook de Nihurcka Arias Pestaña:` <a href="https://www.facebook.com/nihurcka.arias?mibextid=ZbWKwL">NihurckaArias.com</a>.</p>
+¡Bienvenido al repositorio del proyecto "AROMA CAFE CRUCEÑO - Sistema de Información 1"
+
+
+- `Facebook de Diamara Muñoz:` <a href="https://www.facebook.com/diamarayaquelin.munozvargas.3?mibextid=ZbWKwL">DiamaraMuñoz.com</a>.</p>
+¡Bienvenido al repositorio del proyecto "AROMA CAFE CRUCEÑO - Sistema de Información 1" 
+
+
 
 ## Descripción
 Este repositorio contiene el código y la documentación relacionados con el sistema de gestión de ventas y usuarios para la cafetería "Aroma Café Cruceño", ubicada en Santa Cruz de la Sierra, Bolivia. El objetivo de este proyecto es mejorar la eficiencia en la administración de ventas y usuarios en la cafetería, optimizando los procesos y proporcionando una mejor experiencia tanto para el personal como para los clientes.
